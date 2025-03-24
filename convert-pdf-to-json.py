@@ -1,6 +1,7 @@
 import os
 import json
 from openai import OpenAI
+from env_loader_util import load_env, get_env_variable
 from openai.types.beta.threads.message_create_params import (
     Attachment,
     AttachmentToolFileSearch,
@@ -9,7 +10,8 @@ from Utils import read_text_file, save_json_string_to_file, extract_json_from_st
 import re
 
 # Configuring the OpenAI library with your API key
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+load_env()
+OPENAI_API_KEY = get_env_variable('OPENAI_API_KEY')
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Load the system instruction and extraction prompt

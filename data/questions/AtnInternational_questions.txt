@@ -1,0 +1,29 @@
+Okay, here are some potential questions that could be asked based on the provided document, which outlines a Network Build and Maintenance Agreement between Commnet Wireless, LLC and AT&T Mobility LLC:
+
+1.  What specific types of network infrastructure are covered under the definition of "radio access network" or RAN, as mentioned in section 1.1?
+2.  How do the "Build Addendum" and "Maintenance Addendum" (referenced in section 1.1) detail the specific responsibilities and obligations of both Commnet Wireless and AT&T Mobility?
+3.  How are "Structured Payments" and "Maintenance Fees" (sections 1.1) determined and what are the payment schedules outlined in the referenced Addendums?
+4.  What is the significance of the "Cell Site Backhaul Master Services Agreement" and "Master License Agreement" (section 1.1), and how do they interact with this Network Build and Maintenance Agreement?
+5.  What are the potential consequences of the last Addendum expiring or being terminated as described in section 1.2?
+6.  Can you provide examples of the types of entities that would be considered "Affiliates" (section 2.1) of either Commnet Wireless or AT&T Mobility?
+7.  What are the implications of "Control" (section 2.10) for either party, especially in the context of potential mergers or acquisitions?
+8.  How does AT&T ensure the security and privacy of "Customer Information" (section 2.11), and what measures are in place to prevent unauthorized access or disclosure by Commnet Wireless?
+9.  What are some specific examples of "Deliverables" (section 2.12) that Commnet Wireless is required to provide to AT&T, and how are these deliverables used by AT&T?
+10. What specific criteria must be met for a "Permitting Delay" (section 3.3(b)) to be classified as an "Excusable Delay"?
+11. In the event of a "Permitting Delay" and AT&T's decision to terminate obligations for a Cell Site, how is the "[***]" amount in section 3.3(b)(i) calculated?
+12. What are some specific examples of "Anticorruption Laws" (section 3.4) that Commnet Wireless and its representatives must adhere to?
+13. What constitutes an "improper advantage" under section 3.4 in the context of dealing with a Government Official?
+14. How does AT&T assess whether a potential assignee (section 3.5) lacks the financial or operational resources to fulfill the obligations of Vendor?
+15. What specific remedies are available to AT&T (section 3.5) if Vendor consummates a Change of Control of Vendor to any Restricted Entity?
+16. What specific information would be included in the written notice regarding "Delay Information" (section 3.3(a)) and is this notification considered a waiver of any of AT&T's rights?
+17. How does section 3.7, Conflict of Interest, prevent potential bias or undue influence in the award or execution of this agreement?
+18. What specific types of data or information are explicitly excluded from the definition of "Information" (section 2.20) and are therefore not subject to confidentiality restrictions?
+19. What specific factors are considered when determining the "Proportionate Share" (section 3.17(b)(ii)) of liability for a Covered Loss that is a Combination Claim?
+20. What types of Material and Services are intended to be "equally suitable and functionally equivalent" (section 3.17(c)) for replacement purposes?
+21. What are the potential implications if a “Force Majeure Event" (Section 3.12) is reasonably likely to cause a material delay of the ultimate Delivery Date?
+22. How does Vendor demonstrate that there are 'demonstrated costs' as in section 3.12(b) to AT&T to receive compensation for work completed?
+23. How does AT&T ensure compliance with the executive orders and statutes listed in section 3.13, pertaining to government contractors?
+24. What are the processes and criteria that third party administrative service providers need to meet in order to be considered as meeting compliance under section 3.39?
+25. Under what conditions can AT&T conduct an inspection or audit of Vendor’s Subcontractors according to section 3.31?
+
+These questions aim to explore the nuances of the agreement and encourage a thorough understanding of its implications.
